@@ -1,5 +1,4 @@
 # SCEMS-presto-hacks
-This was a 3-day project and will no longer be worked on
 
 ![alt text](https://media.discordapp.net/attachments/919176406787850291/919176469702389790/logo11.png?width=776&height=451)
 
